@@ -1,0 +1,28 @@
+@charset "UTF-8"
+
+body.main{
+    background-color: rgb(90, 102, 98);
+}
+
+main > h1{
+    margin: auto;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.pneus {
+    background-color: aquamarine;
+    margin:auto;
+    max-width: 500px;
+}
+
+.precos {
+    background-color: rgb(169, 174, 241);
+}
+
+.footer{
+    margin: auto;
+}
